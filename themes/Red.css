@@ -1,0 +1,29 @@
+/*Red*/
+	.headersection { background: #e22020 none repeat scroll 0 0; }
+	.icon a { background: #a20e0e none repeat scroll 0 0;}
+	.searchbtn input[type="text"] {background: #9c2828; border: 1px solid #da9595;}
+	.searchbtn input[type="submit"] { background: #8c2525; border: 1px solid #ffb0b0; }
+	.searchbtn input[type="submit"]:hover{background:white; color:black; border: 1px solid #219eda;}
+	.navsection {background: none repeat scroll 0 0 #770a0a;} 
+	.navsection ul li { border-left: 1px solid #e42929;border-right: 1px solid #d45244; }
+	.contentsection {background: #ffffff none repeat scroll 0 0; border: 1px solid #d45244;}
+	.maincontent {background: #e9f1fb none repeat scroll 0 0;border: 1px solid #d45244;}
+	.relatedpost h2 {background: #d45244 none repeat scroll 0 0;border-bottom: 2px solid #d45244 !important; color: #ffffff !important;}
+	.samepost h2, .about h2 {border-bottom: 2px solid #d45244;color: #d45244;}
+	.samepost h2 a{color: #d45244;}
+	.samepost img {background: #fff none repeat scroll 0 0; border: 1px solid #d45244;}
+	.about img {background: #fff none repeat scroll 0 0;border: 1px solid #d45244;}
+	.sidebar { background: #e9f1fb none repeat scroll 0 0;border: 1px solid #d45244;}
+	.samesidebar h2 {background:#d45244 none repeat scroll 0 0; border-bottom: 2px solid #d45244; color: #ffffff;}
+	.samesidebar ul li a {color: #d45244;}
+	.samesidebar ul li {border-bottom: 1px dashed #d45244;}
+	.popular h3 a {color: #d45244;}
+	.popular h3 {border-bottom: 1px dashed #d45244;}
+	.popular img {background: #fff none repeat scroll 0 0;border: 1px solid #d45244;}
+	.readmore a {background: #d45244 none repeat scroll 0 0;border: 1px solid #d45244; color: #ffffff;}
+	.readmore a:hover{background-color: white; color:#000000;}
+	.pagination a {background: #d45244 none repeat scroll 0 0;border: 1px solid #d45244;color:#ffffff;}
+	.pagination a:hover{ background: #ffffff none repeat scroll 0 0; color: #000000;}
+    .footersection {background: #d45244;} 
+    .footermenu ul li a {color: #ffffff; text-decoration: none }
+    .footersection p{color: white;}
